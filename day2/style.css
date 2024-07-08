@@ -1,0 +1,27 @@
+h1{
+    color: red;
+    font-style: italic;
+}
+
+h2{
+    color: aqua;
+    font-style: italic;
+    /* font-weight: bold; */
+    font-weight: 600;
+    background-color: red;
+    
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+body{
+    background-color: grey;
+}
+
+
+
+
+
